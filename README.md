@@ -1,6 +1,6 @@
 # Install-py-faster-rcnn
 
-List out some problem may encounter in installation
+The main procedure to install py-faster-rcnn, with the list of problems may encounter during installation
 
 Basically follows the py-faster-rcnn guide
 
